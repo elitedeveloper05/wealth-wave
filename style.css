@@ -23,11 +23,11 @@ iframe {
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    background-image: url("i-want-a-1280-720-image-of-financial-planning.jpg");
+    background-color: #053f8a;
+    /* background-image: url("i-want-a-1280-720-image-of-financial-planning.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed; */
 }
 
 /* Container styles */
